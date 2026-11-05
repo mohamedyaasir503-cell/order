@@ -7,7 +7,7 @@
 ## PART A — BACKEND (Java)
 
 ### `src/main/java/com/example/fooddelivery/model/Order.java`
-```java
+java
 package com.example.fooddelivery.model;
 
 import com.example.fooddelivery.common.BaseEntity;
